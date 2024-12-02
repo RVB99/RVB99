@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RVB99
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Angular Framework
+- 🌱 I’m currently learning React Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
